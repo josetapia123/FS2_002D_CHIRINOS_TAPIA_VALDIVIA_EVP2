@@ -1,4 +1,5 @@
 // src/components/vistas/VistaCliente.jsx
+// //
 import React from 'react';
 
 export default function VistaCliente({ proyectos }) {
